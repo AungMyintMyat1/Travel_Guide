@@ -1,0 +1,17 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+  .font{
+    font-family: 'Caprasimo', cursive;
+    color:black;
+  }
+
+  .c-gold{
+    color: rgb(253, 245, 1);
+    text-shadow: 2px 2px black;
+  }
+
+  .c-white{
+    color: palegreen;
+    text-shadow: 2px 2px black;
+  }
